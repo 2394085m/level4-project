@@ -1,6 +1,6 @@
 # Timelog
 
-* PROJECT NAME
+* 3D Audio in Virtual Environments
 * Stuart McLaughlin
 * 2394085
 * Jullie Williamson
