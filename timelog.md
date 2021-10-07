@@ -35,3 +35,6 @@
 
 ### 6 Oct 2021
 * *0.5 hour* Had meeting with supervisor outlining the goals for the week and arranged a consistent time for meetings
+
+### 7 Oct 2021
+* *1 hour* Spent time setting up github repo and updating meeting logs
