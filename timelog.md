@@ -38,3 +38,8 @@
 
 ### 7 Oct 2021
 * *1 hour* Spent time setting up github repo and updating meeting logs
+
+## Week 4
+
+### 12 Oct 2021
+* *3 hour* Reading the research paper given by supervisor and annotating/summarising
