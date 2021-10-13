@@ -43,3 +43,7 @@
 
 ### 12 Oct 2021
 * *3 hour* Reading the research paper given by supervisor and annotating/summarising
+
+### 13 Oct 2021
+* *0.5 hour* Had meeting with supervisor discussing the research paper and the next steps for the project
+* *0.5 hour* Updated meeting log for the day
