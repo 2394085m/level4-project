@@ -1,0 +1,21 @@
+## Supervisor meeting for 13 Oct 2021
+
+### Discussion
+
+* Discussed possibilites of project going in a different direction from audio
+* Implementing a webcam face detection feature to add emotional responses in hubs
+* non-euclidean spaces in hubs (what affect it has on social interaction)
+
+### Goals
+
+* Feasibility report on facial expressions using a webcam in hubs
+* Familiarise with the inner workings of the hubs client
+* If it's feasible to broadcast facial expressions from webcam detection through the hubs server
+
+### Delivered
+
+* No deliverables
+
+### Misc
+* No meeting for next week just a teams message to update supervisor
+* If no brick walls are met this week then next week is inteneded to be an official requirements gathering and scheduling how the feature will be implemented
