@@ -48,7 +48,12 @@
 * *0.5 hour* Had meeting with supervisor discussing the research paper and the next steps for the project
 * *0.5 hour* Updated meeting log for the day
 
+## Week 5
+
 ### 19 Oct 2021
 * *2 hour* Tried setting up Mozilla Hubs client (unsuccessful)
+
+### 20 Oct 2021 
+* *1 hour* Successfully got Mozilla Hubs client running on local machine required installing dependencies
 
 
