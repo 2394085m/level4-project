@@ -56,3 +56,9 @@
 ### 20 Oct 2021 
 * *1 hour* Successfully got Mozilla Hubs client running on local machine required installing dependencies
 * *2 hour* Spent time looking through Hubs client source code trying to verify if project proposal is feasible
+
+## Week 6
+
+### 26 Oct 2021
+* *1 hour* Started outlining key steps in development process
+
