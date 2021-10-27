@@ -14,17 +14,17 @@
 
 ## Week 1
 
-### 20 Oct 2021
+### 20 Sep 2021
 
 * *2 hours* Read the project guidance notes
 * *0.5 hour* Created GitLab repository and cloned the cookiecutter for the projects
 
-### 22 Oct 2021
+### 22 Sep 2021
 * *3 hour* Read over project proposals
 
 ## Week 2
 
-### 29 Oct 2021
+### 29 Sep 2021
 
 * *0.5 hour* Sorted out getting project assigned
 
