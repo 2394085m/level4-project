@@ -1,6 +1,6 @@
 # Plan
 
-* PROJECT TITLE
+* Hubs facial expressions
 * Stuart McLaughlin
 * 2394085
 * Julie Williamson
