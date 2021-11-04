@@ -62,3 +62,7 @@
 ### 26 Oct 2021
 * *1 hour* Started outlining key steps in development process
 
+# Week 7
+* *4 hour* Researching blender models and how they work
+* *0.5 hour* preparing for meeting
+* *0.5 hour* Updating issue tracker for the week
