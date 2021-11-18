@@ -66,3 +66,8 @@
 * *4 hour* Researching blender models and how they work
 * *0.5 hour* preparing for meeting
 * *0.5 hour* Updating issue tracker for the week
+
+# Week 9 
+
+### 17 Nov 2021
+* *5 hour* Researching/developing hubs model and setting up Readyplaer.me in blender
