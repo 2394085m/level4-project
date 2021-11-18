@@ -71,3 +71,6 @@
 
 ### 17 Nov 2021
 * *5 hour* Researching/developing hubs model and setting up Readyplaer.me in blender
+
+### 18 Nov 2021
+* *5 hour* Researching blender and attempting to get blender extension to work with audio feedback on custom model
