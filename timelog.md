@@ -74,3 +74,14 @@
 
 ### 18 Nov 2021
 * *5 hour* Researching blender and attempting to get blender extension to work with audio feedback on custom model
+
+# Week 10
+
+### 24 Nov 2021
+* *6 hour* Spent time looking in to how to change shape keys using audio feedback in blender
+
+# Week 11
+
+### 01 Nov 2021
+* *7 hour* Spent even longer trying to get shape keys working as there is very little documentaiton
+*  *2 hour* Messed around with newfound knowledge on customising blender model for custom facial expressions
