@@ -82,6 +82,11 @@
 
 # Week 11
 
-### 01 Nov 2021
+### 01 Dec 2021
 * *7 hour* Spent even longer trying to get shape keys working as there is very little documentaiton
 *  *2 hour* Messed around with newfound knowledge on customising blender model for custom facial expressions
+
+# Week 12
+
+### 06 Dec 2021
+* *4 hour* Researching inner workings of Hubs client to understand how to best implement alternative feedback signals
