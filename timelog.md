@@ -90,3 +90,6 @@
 
 ### 06 Dec 2021
 * *4 hour* Researching inner workings of Hubs client to understand how to best implement alternative feedback signals
+
+### 07 Dec 2021
+* *5 hour* trying to get hubs client set up and looking through source code to try understand best way to implement
