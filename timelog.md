@@ -62,12 +62,12 @@
 ### 26 Oct 2021
 * *1 hour* Started outlining key steps in development process
 
-# Week 7
+## Week 7
 * *4 hour* Researching blender models and how they work
 * *0.5 hour* preparing for meeting
 * *0.5 hour* Updating issue tracker for the week
 
-# Week 9 
+## Week 9 
 
 ### 17 Nov 2021
 * *5 hour* Researching/developing hubs model and setting up Readyplaer.me in blender
@@ -75,18 +75,18 @@
 ### 18 Nov 2021
 * *5 hour* Researching blender and attempting to get blender extension to work with audio feedback on custom model
 
-# Week 10
+## Week 10
 
 ### 24 Nov 2021
 * *6 hour* Spent time looking in to how to change shape keys using audio feedback in blender
 
-# Week 11
+## Week 11
 
 ### 01 Dec 2021
 * *7 hour* Spent even longer trying to get shape keys working as there is very little documentaiton
 *  *2 hour* Messed around with newfound knowledge on customising blender model for custom facial expressions
 
-# Week 12
+## Week 12
 
 ### 06 Dec 2021
 * *4 hour* Researching inner workings of Hubs client to understand how to best implement alternative feedback signals
