@@ -1,5 +1,5 @@
 
-## *[title]* 
+## *Facial expressions in Mozilla Hubs* 
 #### *Stuart McLaughlin* 
 #### *2394085* 
 
@@ -16,7 +16,9 @@
 
 
 ## Progress
-*[Briefly state your progress so far, as a bulleted list]*
+* Working blender model for displaying different facial expressions
+* Identification of a javascript AI model to use for detecting expressions
+* Understanding how to update the shape keys for the blender model with audio feedback
 
 
 ## Problems and risks
