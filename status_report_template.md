@@ -23,11 +23,14 @@
 
 ## Problems and risks
 ### Problems
-*[What problems have you had so far, that have held up the project?]*
+* Setting up Mozilla Hubs client so that a modified version could be run on the local machine.
+* Getting shape keys to properly respond to audio feedback with the hubs blender extension.
+* Developing custom feedback options for the model to allow changing of expressions from the webcam.
 
 
 ### Risks
-*[What problems do you foresee in the future and how will you mitigate them?]*
+* Risk of not getting the features implemented in time for the user study. This will be mitigated by implementing a testable version over the December holiday.
+* Risk of scheduling with user study and then having to write the dissertation. This will be mitigated by planning the user study far in advance and getting the analysis ready for when the data comes back.
 
 
 ## Plan
