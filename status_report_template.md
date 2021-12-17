@@ -34,6 +34,9 @@
 
 
 ## Plan
-*[Time plan, in roughly weekly to monthly blocks, up until submission week]*
+* DEC - Over the December holiday will work on creating the minimum valued product before the semester starts to put the project back on track.
+* JAN - The project will be refined and any remaining development of it will be finalised here (e.g. bug fixes)
+* FEB - User analysis/User study will be conducted early on in the month and then analysis of the data will be carried out in the 2nd half of the month.
+* MAR - The entire month will be dedicated to dissertation write up
 
 
