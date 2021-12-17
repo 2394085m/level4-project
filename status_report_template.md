@@ -1,16 +1,16 @@
 
 ## *[title]* 
-#### *[name]* 
-#### *[student id]* 
+#### *Stuart McLaughlin* 
+#### *2394085* 
 
 ## Proposal
 ### Motivation
-*[Clearly motivate the purpose of your project; why someone would care about what you are doing]*
+*Implementing facial expressions using facial recognition AI for Mozilla Hubs (an open-source vr platform)*
 
 
 
 ### Aims
-*[Clearly state what the project is intended to do. This should be something which is measurable; it should be possible to tell if you succeeded]*
+*Have a working real-time facial recognition AI detect the facial expression of the user through their webcam and have that facial expression be displayed on the in-game avatar's face.*
 
 
 
