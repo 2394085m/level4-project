@@ -93,3 +93,8 @@
 
 ### 07 Dec 2021
 * *5 hour* trying to get hubs client set up and looking through source code to try understand best way to implement
+
+## Week 1 of Extended time
+
+### 27 Jun 2022
+
